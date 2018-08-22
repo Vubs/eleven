@@ -1,0 +1,11 @@
+- Concernant la question sur le rebase, j'ai mal fait le premier essai, mon premier rebase m'a pris énormément de temps ne l'ayant jamais utilisé,
+J'ai essayé de réparer l'erreur et j'ai (je crois) compris comment il fonctionnait, mais ce que j'ai fait m'a obligé à utiliser un pull --rebase après 
+le premier rebase, ainsi qu'un push -f, ce qui je me doute, n'est pas terrible. 
+J'apprécierai donc particulièrement de reparler de cette commande pour mieux comprendre son utilisation étant donné que je suppose qu'elle est liée 
+à un workflow plus propre que je ne savais pas utiliser jusqu'ici.
+
+- Pour la dernière commande, j'ai mis mes deux essais si je ne me trompe pas sur ce que j'ai fait : 
+Le premier compte les mots actions dans les noms des fichiers et la seconde (enfin la 3eme en comptant celle qui n'est pas passée) compte les 
+mots pour chaque fichiers. 
+
+
